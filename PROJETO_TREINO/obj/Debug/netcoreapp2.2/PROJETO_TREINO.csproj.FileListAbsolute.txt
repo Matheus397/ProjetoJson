@@ -1,0 +1,11 @@
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\bin\Debug\netcoreapp2.2\PROJETO_TREINO.deps.json
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\bin\Debug\netcoreapp2.2\PROJETO_TREINO.runtimeconfig.json
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\bin\Debug\netcoreapp2.2\PROJETO_TREINO.runtimeconfig.dev.json
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\bin\Debug\netcoreapp2.2\PROJETO_TREINO.dll
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\bin\Debug\netcoreapp2.2\PROJETO_TREINO.pdb
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.csprojAssemblyReference.cache
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.AssemblyInfoInputs.cache
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.AssemblyInfo.cs
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.dll
+C:\Users\Treinamento 1\Desktop\PROJETO_TREINO\PROJETO_TREINO\obj\Debug\netcoreapp2.2\PROJETO_TREINO.pdb
